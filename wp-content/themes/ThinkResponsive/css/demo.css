@@ -1,0 +1,75 @@
+/*DEMO CSS*/
+#palette{
+	z-index:99999;
+	position:absolute;
+	left:20px;
+	top:20px;
+	background-color:#000000;
+	border:1px solid #333333;
+}
+#paletteBody{
+	width:186px;
+	position:relative;
+}
+#colorPalette{
+	margin-left:18px;
+}
+#colorPicker{
+	position:absolute;
+	left:88px;
+	top:70px;
+	width:10px;
+	height:10px;
+	border:1px solid #000000;
+	border-radius:50%;
+	cursor:crosshair;
+}
+#paletteHeader{
+	margin:1px;
+	padding:3px;
+	height:22px;
+	cursor:move;
+}
+#colorResult{
+	background-color:#0199FE;
+	float:left;
+	color:#000000;
+	padding:2px;
+}
+#paletteHeader .closeButton:link, #paletteHeader  .closeButton:visited,
+#paletteHeader  .openButton:link, #paletteHeader  .openButton:visited
+{
+	display:block;
+	float:right;
+	width:20px;
+	height:20px;
+	border:0;
+}
+#paletteHeader  .closeButton:hover, #paletteHeader  .closeButton:active,
+#paletteHeader  .openButton:hover, #paletteHeader  .openButton:active{
+	background-position:0 -20px;
+}
+#paletteHeader  .closeButton:link, #paletteHeader  .closeButton:visited{background-image:url('../images/paletteClose.png');}
+#paletteHeader  .openButton:link, #paletteHeader .openButton:visited{background-image:url('../images/paletteOpen.png');}
+#paletteHeader .openButton:link, #paletteHeader  .openButton:visited{ display:none; }
+#ThemeSwitch{
+	height:40px;
+	width:122px;
+	margin:0 auto;
+	border:0;
+}
+#ThemeSwitch .themeBtn:link, #ThemeSwitch .themeBtn:visited{
+	float:left;
+	display:block;
+	padding:2px 10px;
+	text-decoration:none;
+	margin:5px;
+	color:#dddddd;
+	border:0;
+}
+
+#ThemeSwitch .selected:link, #ThemeSwitch .selected:visited,
+#ThemeSwitch .selected:hover, #ThemeSwitch .selected:active {
+	border:0;
+	border-bottom:2px solid #999999;
+}

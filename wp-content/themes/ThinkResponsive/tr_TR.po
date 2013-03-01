@@ -1,0 +1,1160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Think Responsive\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-28 22:33+0200\n"
+"PO-Revision-Date: 2012-04-28 22:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:3
+#: header.php:181
+msgid "You may find your requested page by searching."
+msgstr "Belki aramayı kullanarak istediğiniz sayfaya ulaşabilirsiniz."
+
+#: archive.php:4
+msgid "May be searching will help."
+msgstr "Belki arama size yardımcı olabilir."
+
+#: comments.php:5
+msgid " Comments to "
+msgstr " Yorumlar"
+
+#: comments.php:34
+msgid "Prev Comments"
+msgstr "Önceki Yorumlar"
+
+#: comments.php:37
+msgid "Next Comments"
+msgstr "Sonraki Yorumlar"
+
+#: functions.php:200
+msgid "[Delete]"
+msgstr "[Sil]"
+
+#: functions.php:220
+#: header.php:141
+msgid "Results for "
+msgstr "Sonuçlar "
+
+#: functions.php:226
+msgid "Page "
+msgstr "Sayfa"
+
+#: functions.php:549
+msgid "Pingback:"
+msgstr "Geri izleme"
+
+#: functions.php:551
+msgid "Edit"
+msgstr "Düzenle"
+
+#: header.php:143
+msgid "Not found for "
+msgstr "Şunun için hiçbir sonuç bulunamadı; "
+
+#: header.php:149
+#: header.php:155
+#: header.php:162
+#: header.php:178
+msgid "Page request could not be found."
+msgstr "İstediğiniz sayfa bulunamadı."
+
+#: header.php:153
+msgid "Tag, "
+msgstr "Etiket, "
+
+#: header.php:160
+msgid "Category, "
+msgstr "Kategori, "
+
+#: header.php:169
+msgid "Daily Archives, "
+msgstr "Günlük Arşiv, "
+
+#: header.php:171
+msgid "Monthly Archives, "
+msgstr "Aylık Arşiv, "
+
+#: header.php:173
+msgid "Yearly Archives, "
+msgstr "Yıllık Arşiv, "
+
+#: header.php:175
+msgid "Blog Archives"
+msgstr "Blog Arşivi"
+
+#: search.php:4
+msgid "No results were found for your keywords. Please try again with another keyword."
+msgstr "Aradığınız helime ile bir sonuç bulunamadı. Lütfen başka bir kelime ile tekrar deneyin."
+
+#: searchform.php:4
+msgid "SEARCH"
+msgstr "ARAMA"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Arama"
+
+#: includes/admin-structure.php:7
+msgid "THEME CHECK"
+msgstr "TEMA KONTROL"
+
+#: includes/admin-structure.php:15
+msgid "GENERAL SETTINGS"
+msgstr "GENEL AYARLAR"
+
+#: includes/admin-structure.php:22
+msgid "Top Pop Up Open"
+msgstr "Üst Pop Up Açık"
+
+#: includes/admin-structure.php:30
+msgid "Bottom Pop Up Open"
+msgstr "Alt Pop Up Açık"
+
+#: includes/admin-structure.php:38
+msgid "Logo Url"
+msgstr "Logo Url'si"
+
+#: includes/admin-structure.php:44
+msgid "Favicon (.ico file)"
+msgstr "Favicon url'si (sadece .ico formatı destekler)"
+
+#: includes/admin-structure.php:50
+msgid "Google Analytics Code"
+msgstr "Google Analytics Code (Lütfen tüm kodu değil sadece size verilen numarayı giriniz)"
+
+#: includes/admin-structure.php:56
+msgid "Default Sidebar Position on Page"
+msgstr "Sayfalar için Varsayılan Sidebar Pozisyonu"
+
+#: includes/admin-structure.php:58
+#: includes/admin-structure.php:65
+msgid "None"
+msgstr "Yok"
+
+#: includes/admin-structure.php:58
+#: includes/admin-structure.php:65
+msgid "Left"
+msgstr "Sol"
+
+#: includes/admin-structure.php:58
+#: includes/admin-structure.php:65
+msgid "Right"
+msgstr "Sağ"
+
+#: includes/admin-structure.php:63
+msgid "Default Sidebar Position on Post Detail"
+msgstr "Yazı sayfası detayı için Varsayılan Sidebar Pozisyonu"
+
+#: includes/admin-structure.php:70
+msgid "News Widget Record Count"
+msgstr "Haberler Listesinin Üye Sayısı"
+
+#: includes/admin-structure.php:77
+msgid "STYLE OPTIONS"
+msgstr "TASARIM"
+
+#: includes/admin-structure.php:84
+msgid "Theme Style"
+msgstr "TEMA TARZI"
+
+#: includes/admin-structure.php:87
+msgid "Light"
+msgstr "Açık Renkler"
+
+#: includes/admin-structure.php:87
+msgid "Dark"
+msgstr "Koyu Renkler"
+
+#: includes/admin-structure.php:91
+msgid "First Color"
+msgstr "Birincil Renk"
+
+#: includes/admin-structure.php:97
+msgid "First Color Inverse"
+msgstr "Birincil Rengin Tersi"
+
+#: includes/admin-structure.php:103
+msgid "Color Second"
+msgstr "İkincil Renk"
+
+#: includes/admin-structure.php:109
+msgid "Second Color Inverse"
+msgstr "İkincil Rengin Tersi"
+
+#: includes/admin-structure.php:115
+msgid "Box Color"
+msgstr "Kutu Rengi"
+
+#: includes/admin-structure.php:121
+msgid "Box Color Tint"
+msgstr "Kutu Rengi Varyasyonu"
+
+#: includes/admin-structure.php:127
+msgid "Box Inverse Color"
+msgstr "Kutu Ters Rengi"
+
+#: includes/admin-structure.php:133
+msgid "Background Pattern"
+msgstr "Arkaalan Döşemesi/Imajı"
+
+#: includes/admin-structure.php:139
+msgid "Menu Color"
+msgstr "Menü Rengi"
+
+#: includes/admin-structure.php:145
+msgid "Menu Text Color"
+msgstr "Menü Yazı Rengi"
+
+#: includes/admin-structure.php:151
+msgid "Inverse Color of Menu"
+msgstr "Menü Ters Rengi"
+
+#: includes/admin-structure.php:157
+msgid "Header Text Color on Menu"
+msgstr "Menü Başlık Metinlerinin Rengi"
+
+#: includes/admin-structure.php:163
+msgid "Hover Color of Header Text on Menu"
+msgstr "Menü Başlık Metinlerinin Rengi"
+
+#: includes/admin-structure.php:169
+msgid "Hover Color of Text on Menu"
+msgstr "Menü Metinlerinin Ters Rengi"
+
+#: includes/admin-structure.php:175
+msgid "Color of Menu Border"
+msgstr "Menü Kenarlıklarının Rengi"
+
+#: includes/admin-structure.php:183
+msgid "TEXT OPTIONS"
+msgstr "YAZI SEÇENEKLERİ"
+
+#: includes/admin-structure.php:190
+msgid "Font Color"
+msgstr "Yazı Rengi"
+
+#: includes/admin-structure.php:196
+msgid "Header Font"
+msgstr "Başlık Yazılarının Fontu"
+
+#: includes/admin-structure.php:202
+#: includes/admin-structure.php:208
+msgid "Content Font"
+msgstr "İçerik Yazılarının Fontu"
+
+#: includes/admin-structure.php:215
+msgid "Menu Header Text Size"
+msgstr "Menü Başlığı Yazı Boyutu"
+
+#: includes/admin-structure.php:222
+msgid "Menu Text Size"
+msgstr "Menü Yazı Boyutu"
+
+#: includes/admin-structure.php:229
+msgid "H1 Text Size"
+msgstr "H1 elementinin Yazı Boyutu"
+
+#: includes/admin-structure.php:236
+msgid "H2 Text Size"
+msgstr "H2 elementinin Yazı Boyutu"
+
+#: includes/admin-structure.php:243
+msgid "H3 Text Size"
+msgstr "H3 elementinin Yazı Boyutu"
+
+#: includes/admin-structure.php:250
+msgid "H4 Text Size"
+msgstr "H4 elementinin Yazı Boyutu"
+
+#: includes/admin-structure.php:257
+msgid "H5 Text Size"
+msgstr "H5 elementinin Yazı Boyutu"
+
+#: includes/admin-structure.php:264
+msgid "H6 Text Size"
+msgstr "H6 elementinin Yazı Boyutu"
+
+#: includes/admin-structure.php:273
+msgid "GALLERY MANAGER"
+msgstr "GALERİ YÖNETİCİSİ"
+
+#: includes/admin-structure.php:283
+msgid "HELP"
+msgstr "YARDIM"
+
+#: includes/blog-sh.php:84
+msgid "Posted By"
+msgstr "Gönderen"
+
+#: includes/blog-sh.php:88
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: includes/blog-sh.php:96
+msgid "Tags"
+msgstr "Etiketler"
+
+#: includes/blog-sh.php:105
+msgid "No Comment"
+msgstr "Yorum Yok"
+
+#: includes/blog-sh.php:107
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: includes/blog-sh.php:109
+#: includes/blog-sh.php:110
+msgid "Comments"
+msgstr "Yorum"
+
+#: includes/form-sender.php:16
+msgid "Please check your value for validation because your result of sum is incorrect."
+msgstr "Lütfen toplama işleminin sonucunu kontrol edin."
+
+#: includes/form-sender.php:41
+msgid "Have got an error while sending e-mail."
+msgstr "E-mail gönderilirken bir hata oluştu."
+
+#: includes/general-settings.php:5
+msgid "RB Admin"
+msgstr "RB Yönetim"
+
+#: includes/general-settings.php:115
+msgid "Getting gallery list..."
+msgstr "Galeriler listeleniyor..."
+
+#: includes/general-settings.php:119
+msgid "Gallery list has been gotted successfully"
+msgstr "Galeriler başarıyla listelendi"
+
+#: includes/general-settings.php:129
+msgid "Getting images list..."
+msgstr "Imajlar getirileiyor."
+
+#: includes/general-settings.php:133
+msgid "Images list has been gotted successfully"
+msgstr "Imajlar başarıyla listelendi"
+
+#: includes/general-settings.php:137
+msgid "Theme checking..."
+msgstr "Tema kontrol ediliyor..."
+
+#: includes/general-settings.php:160
+msgid "Theme has been checked successfully"
+msgstr "Tema başarıyla kontrol edildi"
+
+#: includes/general-settings.php:197
+msgid "Are you sure set this item as Front Page Gallery?"
+msgstr "Bu galeriyi anasayfa galerisi yapmak istediğize emin misiniz?"
+
+#: includes/general-settings.php:198
+msgid "Setting gallery as Front Page Gallery..."
+msgstr "Galeri anasayfa galerisi olarak ayarlanıyor."
+
+#: includes/general-settings.php:204
+msgid "Gallery has been setted as front page gallery successfully."
+msgstr "Galeri Ana Sayfaya başarıyla atantı"
+
+#: includes/general-settings.php:206
+msgid "Have got an error while setting gallery as front page gallery."
+msgstr "Galeri Ana Sayfa olarak atanırken bir hata oluştu."
+
+#: includes/general-settings.php:212
+msgid "Are you sure to delete?"
+msgstr "Silmek istediğinize emin misiniz?"
+
+#: includes/general-settings.php:213
+msgid "Deleteting gallery..."
+msgstr "Galeri siliniyor..."
+
+#: includes/general-settings.php:220
+msgid "Gallery has been deleted successfully"
+msgstr "Galeri başarıyla silindi"
+
+#: includes/general-settings.php:222
+msgid "Have got an error while deleting gallery."
+msgstr "Galeri silinirken bir hata oluştu."
+
+#: includes/general-settings.php:241
+msgid "Please enter a name"
+msgstr "Lüften bir isim girin"
+
+#: includes/general-settings.php:243
+msgid "Creating a new gallery..."
+msgstr "Yeni galeri yaratılıyor..."
+
+#: includes/general-settings.php:248
+msgid "New gallery has been created successfully"
+msgstr "Yeni galeri başarıyla kaydedildi"
+
+#: includes/general-settings.php:250
+msgid "Have got an error while creation new gallery."
+msgstr "Yeni galeri kaydedilirken bir hata oluştu."
+
+#: includes/general-settings.php:298
+msgid "Slider items are saving..."
+msgstr "Slider öğesi kaydediliyor..."
+
+#: includes/general-settings.php:306
+msgid "Slider items has been saved successfuly."
+msgstr "Slider öğesi başarıyla güncellendi."
+
+#: includes/general-settings.php:340
+msgid "You must fill all field"
+msgstr "Tüm alanları doldurmalısınız"
+
+#: includes/general-settings.php:345
+msgid "Adding your video item..."
+msgstr "Video öğesi ekleniyor..."
+
+#: includes/general-settings.php:351
+msgid "New video item has been added successfully."
+msgstr "Yeni video başarıyla eklendi."
+
+#: includes/general-settings.php:354
+msgid "Have been an error while adding video item."
+msgstr "Video eklenirken bir hata oluştu."
+
+#: includes/general-settings.php:446
+msgid "Are you sure to apply. If you continue all current settings will be change."
+msgstr "Uygulamak istediğinize emin misiniz? Devam ederseniz yüklü ayarlar değişecek."
+
+#: includes/general-settings.php:471
+msgid "Saving general settings..."
+msgstr "Genel ayarlar kaydediliyor..."
+
+#: includes/general-settings.php:476
+msgid "General settings has been updated successfully."
+msgstr "Genel ayarlar güncellenirken bir hata oluştu."
+
+#: includes/general-settings.php:479
+msgid "Have got an error while saving settings."
+msgstr "Ayarlar kaydedilirken bir hata oluştu."
+
+#: includes/general-settings.php:487
+msgid "Getting current settings..."
+msgstr "Yükllü ayarlar getiriliyor..."
+
+#: includes/general-settings.php:490
+msgid "Current settings has been gotten successfully."
+msgstr "Yükllü ayarlar başarıyla getirildi."
+
+#: includes/general-settings.php:500
+msgid "Backgrounds are getting..."
+msgstr "Arkaalanlar getiriliyor..."
+
+#: includes/general-settings.php:502
+msgid "Backgrounds has been getted successfully."
+msgstr "Arkaalanlar başarıyla getirildi."
+
+#: includes/general-settings.php:521
+#: includes/general-settings.php:738
+msgid "Are you sure to delete this image?"
+msgstr "Imajı silmek istediğinize emin misiniz?"
+
+#: includes/general-settings.php:523
+msgid "Deleting image..."
+msgstr "Imaj siliniyor..."
+
+#: includes/general-settings.php:528
+msgid "Settings has been deleted successfully."
+msgstr "Ayarlar başarıyla silindi."
+
+#: includes/general-settings.php:531
+msgid "Have got an error while deleting image."
+msgstr "Imaj silinirken hata oluştu."
+
+#: includes/general-settings.php:552
+msgid "Have got an error while getting font variant"
+msgstr "Font varyasyonları getirilirken hata oluştu"
+
+#: includes/general-settings.php:742
+msgid "Image is deleting..."
+msgstr "Imaj siliniyor..."
+
+#: includes/general-settings.php:747
+msgid "Image has been deleted successfully."
+msgstr "Imaj başarıyla silindi."
+
+#: includes/general-settings.php:752
+msgid "Image coudn\\'t be deleted"
+msgstr "Imaj silinemiyor"
+
+#: includes/general-settings.php:763
+msgid "Please enter a new value"
+msgstr "Lütfen yeni bir değer girin"
+
+#: includes/general-settings.php:767
+msgid "Dimension of Video is deleting..."
+msgstr "Video boyutları siliniyor..."
+
+#: includes/general-settings.php:772
+msgid "Dimension of Video has been updated successfully."
+msgstr "Video ölçüleri başarıyla güncellendi."
+
+#: includes/general-settings.php:777
+msgid "Dimension of Video coudn\\'t be updated."
+msgstr "Video ölçüleri güncellenemedi."
+
+#: includes/general-settings.php:812
+msgid "Error:"
+msgstr "Hata:"
+
+#: includes/general-settings.php:1233
+msgid "RENKLIBEYAZ'S THEMES"
+msgstr "RENKLIBEYAZ'IN TEMALARI"
+
+#: includes/general-settings.php:1235
+msgid "http://themeforest.net/user/renklibeyaz/follow"
+msgstr ""
+
+#: includes/general-settings.php:1235
+msgid "Follow us on<br />Themeforest"
+msgstr "Themeforestta<br /> Takip Et"
+
+#: includes/general-settings.php:1236
+msgid "http://renklibeyaz.com/forum/purchisecode.html"
+msgstr ""
+
+#: includes/general-settings.php:1236
+msgid "Forum<br />Register Code"
+msgstr "Forum<br /> Kayıt Kodu"
+
+#: includes/general-settings.php:1237
+msgid "http://renklibeyaz.com/forum/"
+msgstr ""
+
+#: includes/general-settings.php:1237
+msgid "Support<br />Forum"
+msgstr "Destek<br /> Forumu"
+
+#: includes/general-settings.php:1238
+msgid "http://twitter.com/renklibeyaz"
+msgstr ""
+
+#: includes/general-settings.php:1238
+msgid "Follow us on<br />Twitter"
+msgstr "Twitterda<br /> Takip Et"
+
+#: includes/general-settings.php:1269
+msgid "Option"
+msgstr "Seçenek"
+
+#: includes/general-settings.php:1270
+#: includes/general-settings.php:1353
+#: includes/general-settings.php:1366
+msgid "Value"
+msgstr "Değer"
+
+#: includes/general-settings.php:1276
+#: includes/general-settings.php:1404
+msgid "Apply Settings"
+msgstr "Ayarları Uygula"
+
+#: includes/general-settings.php:1309
+#: includes/general-settings.php:1342
+msgid "Get URL"
+msgstr "URL Getir"
+
+#: includes/general-settings.php:1313
+#, php-format
+msgid "%d Records"
+msgstr "%d adet Kayıt"
+
+#: includes/general-settings.php:1314
+msgid "Download the list"
+msgstr "Listeyi İndir"
+
+#: includes/general-settings.php:1335
+msgid "Transparent"
+msgstr "Şeffaf"
+
+#: includes/general-settings.php:1336
+msgid "Use Color"
+msgstr "Renk Kullan"
+
+#: includes/general-settings.php:1340
+msgid "Url:"
+msgstr "URL:"
+
+#: includes/general-settings.php:1347
+msgid "Horizontal:"
+msgstr "Yatay:"
+
+#: includes/general-settings.php:1352
+msgid "Center"
+msgstr "Ortada"
+
+#: includes/general-settings.php:1360
+msgid "Vertical:"
+msgstr "Dikey:"
+
+#: includes/general-settings.php:1363
+msgid "Top"
+msgstr "Üstte"
+
+#: includes/general-settings.php:1364
+msgid "Bottom"
+msgstr "Altta"
+
+#: includes/general-settings.php:1365
+msgid "Middle"
+msgstr "Ortada"
+
+#: includes/general-settings.php:1373
+msgid "Repeat:"
+msgstr "Tekrarlama"
+
+#: includes/general-settings.php:1376
+msgid "Repeat"
+msgstr "Tekrarla"
+
+#: includes/general-settings.php:1377
+msgid "Repeat-X"
+msgstr "X-Ekseninde"
+
+#: includes/general-settings.php:1378
+msgid "Repeat-Y"
+msgstr "Y-Ekseninde"
+
+#: includes/general-settings.php:1379
+msgid "No-Repeat"
+msgstr "Tekrarsız"
+
+#: includes/general-settings.php:1385
+msgid "Position:"
+msgstr "Pozisyon:"
+
+#: includes/general-settings.php:1388
+msgid "Scroll"
+msgstr "Kayan"
+
+#: includes/general-settings.php:1389
+msgid "Fixed"
+msgstr "Sabit"
+
+#: includes/general-settings.php:1445
+msgid "GALLERIES"
+msgstr "GALERİLER"
+
+#: includes/general-settings.php:1448
+#: includes/general-settings.php:1528
+msgid "ID"
+msgstr "ID"
+
+#: includes/general-settings.php:1449
+msgid "NAME"
+msgstr "ADI"
+
+#: includes/general-settings.php:1450
+msgid "ACTIONS"
+msgstr "İŞLEMLER"
+
+#: includes/general-settings.php:1458
+msgid "Add a New Gallery"
+msgstr "Yeni Galeri Ekle"
+
+#: includes/general-settings.php:1479
+#: includes/general-settings.php:1531
+#: includes/general-settings.php:1588
+msgid "Image"
+msgstr "Imaj"
+
+#: includes/general-settings.php:1480
+msgid "Video"
+msgstr "Video"
+
+#: includes/general-settings.php:1487
+#: includes/general-settings.php:1581
+msgid "This browser may not support Multi Upload module. Please try another browser like Firefox etc."
+msgstr "Bu tarayıcı çoklu upload modülünü desteklemiyor olabilir. Lütfen başka bir browser deneyin. Örneğn Firefox."
+
+#: includes/general-settings.php:1495
+msgid "Self Hosted Video"
+msgstr "Kendi Hostumuzdaki Dosya"
+
+#: includes/general-settings.php:1496
+msgid "Flash SWF File"
+msgstr "Flash SWF Dosyası"
+
+#: includes/general-settings.php:1499
+msgid "Video ID"
+msgstr "Video IDsi"
+
+#: includes/general-settings.php:1503
+#: includes/post-options.php:186
+#: includes/post-options.php:320
+msgid "Video URL"
+msgstr "Video URLsi"
+
+#: includes/general-settings.php:1507
+msgid "Iframe Code"
+msgstr "Iframe Kodu"
+
+#: includes/general-settings.php:1511
+msgid "Width"
+msgstr "Genişlik"
+
+#: includes/general-settings.php:1513
+msgid "Height"
+msgstr "Yükseklik"
+
+#: includes/general-settings.php:1516
+msgid "Add Video"
+msgstr "Video Ekle"
+
+#: includes/general-settings.php:1525
+msgid "Back to Gallery List"
+msgstr "Galeri Listesini Dön"
+
+#: includes/general-settings.php:1528
+msgid "Gallery"
+msgstr "Galeri"
+
+#: includes/general-settings.php:1532
+msgid "Informations"
+msgstr "Bilgiler"
+
+#: includes/general-settings.php:1538
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: includes/general-settings.php:1574
+msgid "Image Manager"
+msgstr "Imaj Yöneticisi"
+
+#: includes/general-settings.php:1589
+msgid "Actions"
+msgstr "İşlemler"
+
+#: includes/main-ajax.php:40
+msgid "Have got an error when deleting."
+msgstr "Silerken bir hata oluştu."
+
+#: includes/main-ajax.php:57
+msgid "Directory has not been created;"
+msgstr "Dizin yaratılamadı;"
+
+#: includes/main-ajax.php:72
+msgid "Have got an error when deleting file."
+msgstr "Dosyayı silerken bir hata oluştu."
+
+#: includes/main-ajax.php:135
+msgid "[Front Page]"
+msgstr "[Ana Sayfa]"
+
+#: includes/main-ajax.php:137
+msgid "Edit Gallery"
+msgstr "Galeriyi Düzenle"
+
+#: includes/main-ajax.php:138
+msgid "Set Front Page"
+msgstr "Ara Sayfa Ata"
+
+#: includes/main-ajax.php:139
+msgid "Remove"
+msgstr "Kaldır"
+
+#: includes/main-ajax.php:160
+msgid "[Upload Thumbnail]"
+msgstr "[Küçük Image Upload]"
+
+#: includes/main-ajax.php:166
+msgid "CAPTION"
+msgstr "Başlık"
+
+#: includes/main-ajax.php:169
+msgid "DESCRIPTION"
+msgstr "Açıklama"
+
+#: includes/main-ajax.php:276
+msgid "THEME CHECK RESULT"
+msgstr "TEMA KONTROL SONUÇLARI"
+
+#: includes/main-ajax.php:279
+msgid "STATUS"
+msgstr "DURURM"
+
+#: includes/main-ajax.php:285
+msgid "TimThumb PHP Script"
+msgstr "TimThumb PHP Scripti"
+
+#: includes/main-ajax.php:286
+msgid "ThimThumb image resizer script is not working on your server!"
+msgstr "TimThumb imaj boyutlandırıcı sunucunuzda çalışmıyor!"
+
+#: includes/main-ajax.php:287
+msgid "This script resizes and crop the images. Without this script, you must edit your images manually."
+msgstr "Bu script imajları yeniden boyutlandırma ve kesme için kullanılmaktadır. Bu script çalışmazsa bu gereklilikleri elle yapmak durumunda kalırsınız."
+
+#: includes/main-ajax.php:290
+msgid "Upload Directory"
+msgstr "Upload Dizini"
+
+#: includes/main-ajax.php:290
+msgid "This directory usually being used by WordPress for all media files. <strong>Default is wp-content/uploads</strong>. For that reason, you can't upload any image files without createing and giving its permissions."
+msgstr "Bu dizin genellikle WordPress tarafından tüm medyalar için kullanılır. . <strong>Varsayılan dizin wp-content/uploads</strong> dir. Bu sebepten dolayı bu dosyayı doğru yetkilerle yaratmadan upload yapamazsınız."
+
+#: includes/main-ajax.php:293
+msgid "Image Manager Directory"
+msgstr "Image Yöneticisi Dizini"
+
+#: includes/main-ajax.php:293
+msgid "This folder is used by Image Manager in General Theme Settings. In order to run this function, this folder must be created."
+msgstr "Bu dizin Genel Ayarlarda bulunan Image Yöneticisi tarafından kullanılır. Bu özelliğin kullanılabilmesi için bu dizin yaratılmış olmalıdır."
+
+#: includes/main-ajax.php:296
+msgid "Gallery Images Directory"
+msgstr "Galeri Imaj Dizini"
+
+#: includes/main-ajax.php:296
+msgid "This folder is used for uploading images in Gallery section."
+msgstr "Bu dizin galeriye upload edilen dosyaları barındırır."
+
+#: includes/main-ajax.php:299
+msgid "TimThumb Cache Directory"
+msgstr "TimThumb Cache Dizini"
+
+#: includes/main-ajax.php:299
+msgid "If ThimThumb will be used, this folder must have needed permission."
+msgstr "Eğer TimThumb kullanacaksanız bu dizinin yetkilendirmesi doğru yapılmalıdır."
+
+#: includes/main-ajax.php:302
+msgid "WP-PageNavi Plugin"
+msgstr "WP-Pagenavi Eklentisi"
+
+#: includes/main-ajax.php:302
+msgid "Please Install and Activate WP-PageNavi Plugin."
+msgstr "Lütfen WP-Pagenavi eklentisini kurun ve aktif edin."
+
+#: includes/main-ajax.php:302
+msgid "This plugin is used for pagination in Blog and Portfolio sections. You can find this plugin in downloaded files / plugins folder.(You can watch the video about plugin installation)"
+msgstr "Bu eklendi sayfalama için kullanılmaktadır. Lütfen indirdiğiniz dosyanın içerinindeki / plugins dizinini kontrol edin. Kurulum için videoyu izleyebilirsiniz."
+
+#: includes/main-ajax.php:306
+msgid "file_get_contents Remote Server Access"
+msgstr "file_get_contents fonksiyonunun Uzak Sunuculara Erişimi"
+
+#: includes/main-ajax.php:307
+msgid "Your server is blocking \"Remote Server Connection\". Please contact your host provider to allow \"file_get_contents\" php function."
+msgstr "Sunucunu \"Uzak sunuculara erişimi\" engelliyor. Lütfen hosting sağlayıcınızdan php kütüphanesinden \"file_get_contents\" fonksiyonuna uzak bağlantı yetkisi verilmesini isteyin."
+
+#: includes/main-ajax.php:308
+msgid "This function gets the thumbnail of the video files, update the fonts and displaying notice about theme updates."
+msgstr "Bu sınıf video dosyalarına ait google font güncellemeleri, küçük imajları ve tema güncellemelerinde kullanılır."
+
+#: includes/main-ajax.php:312
+msgid "PHP SimpleXml Class"
+msgstr "PHP SimpleXml Sınıfı"
+
+#: includes/main-ajax.php:313
+msgid "Your server doesn\\'t have \"SimpleXml Class\" which is a PHP Class."
+msgstr "Sunucunuzun php kütüphanesinde  \"SimpleXml Sınıfı\" bulunmuyor."
+
+#: includes/main-ajax.php:314
+msgid "This Class gets the thumbnail of the video files, displaying notice about theme updates."
+msgstr "Bu sınıf video dosyalarına ait küçük imajları ve tema güncellemelerinde kullanılır."
+
+#: includes/main-ajax.php:317
+msgid "PHP cURL Class"
+msgstr "PHP cURL Sınıfı"
+
+#: includes/main-ajax.php:318
+msgid "Your server doesn't have \"cURL Class\" which is a PHP Class."
+msgstr "Sunucunuzun php kütüphanesinde \"cURL Sınıfı\" bulunmuyor."
+
+#: includes/main-ajax.php:319
+msgid "This Class is displaying notice about theme updates."
+msgstr "Bu sınıf tema hakkındaki güncellemeleri kontrol etmek için kullanılmaktadır."
+
+#: includes/main-ajax.php:350
+#, php-format
+msgid "This directory could not be created automatically. Please create \"%s\" directory and give %s permission."
+msgstr "Bu dizin otomatik olarak yaratılamadı. Lütfen \"%s\" dizininin %s izini ile yaratın."
+
+#: includes/main-ajax.php:358
+#, php-format
+msgid "This directory permissions could not be changed automatically. Please change permissions \"%s\" directory as %s."
+msgstr "Bu dizinin izinleri otomatik olarak değiştirilemedi. Lütfen \"%s\" dizininin izinlerini %s olarak değiştirin."
+
+#: includes/main-ajax.php:423
+#: includes/post-options.php:360
+msgid "Client"
+msgstr "Müşteri"
+
+#: includes/main-ajax.php:434
+#: includes/portfolio-sh.php:140
+msgid "View all posts in "
+msgstr "Tüm öğleri göster"
+
+#: includes/main-ajax.php:442
+msgid "Project Link"
+msgstr "Proje Linki"
+
+#: includes/main-ajax.php:443
+msgid "Lauch Project"
+msgstr "Projeye Git"
+
+#: includes/portfolio-sh.php:76
+msgid "ALL"
+msgstr ""
+
+#: includes/post-options.php:12
+#: includes/post-options.php:13
+msgid "Portfolios"
+msgstr "Portfolyo"
+
+#: includes/post-options.php:14
+msgid "Add New Portfolio Item"
+msgstr "Yeni Portfolyo Öğesi Ekle"
+
+#: includes/post-options.php:15
+msgid "Edit Portfolio Item"
+msgstr "Portfolyo Öğesini Düzenle"
+
+#: includes/post-options.php:16
+msgid "New Portfolio Item"
+msgstr "Yeni Portfolyo Öğesi"
+
+#: includes/post-options.php:17
+msgid "View Portfolio Item"
+msgstr "Porfolyo Öğelerini Görüntüle"
+
+#: includes/post-options.php:18
+msgid "Search Portfolio Item"
+msgstr "Portfolyo Öğesi Ara"
+
+#: includes/post-options.php:19
+msgid "Not found any portfolio item."
+msgstr "Hiç portfolyo öğesi bulunamadı"
+
+#: includes/post-options.php:20
+msgid "Not found any portfolio item in trash"
+msgstr "Çöpte hiç portfolyo öğesi bulunamadı"
+
+#: includes/post-options.php:57
+#: includes/post-options.php:101
+msgid "Sidebar Option"
+msgstr "Sidebar Seçeneği"
+
+#: includes/post-options.php:65
+#: includes/post-options.php:109
+msgid "Sidebar Position"
+msgstr "Sidebar Pozisyonu"
+
+#: includes/post-options.php:69
+#: includes/post-options.php:113
+msgid "Default"
+msgstr "Varsayılan"
+
+#: includes/post-options.php:85
+#: includes/post-options.php:413
+msgid "Show in Detail Page"
+msgstr "Detay Sayfasında Göster"
+
+#: includes/post-options.php:91
+#: includes/post-options.php:258
+#: includes/post-options.php:418
+#: includes/post-options.php:471
+msgid "Use Image Resizer Script"
+msgstr "Image Boyutlandırma Scripti Kullan"
+
+#: includes/post-options.php:121
+msgid "Quote for The Post"
+msgstr "Post için Alıntı Metni"
+
+#: includes/post-options.php:129
+msgid "Quote"
+msgstr "Alıntı Metni"
+
+#: includes/post-options.php:130
+msgid "(Info) Title will be shown as owner of quote"
+msgstr "(Bilgi) Title alıntı sahibi olarak görüntülenecektir"
+
+#: includes/post-options.php:140
+#: includes/post-options.php:293
+msgid "Large Size Image URL"
+msgstr "Geniş Boyutlu Imaj URLsi"
+
+#: includes/post-options.php:148
+#: includes/post-options.php:301
+msgid "Lager Image URL"
+msgstr "Geniş Imaj URLsi"
+
+#: includes/post-options.php:149
+#: includes/post-options.php:302
+msgid "(Required) URL of the large image"
+msgstr "(Zorunlu) Geniş Imajın URLsi"
+
+#: includes/post-options.php:159
+msgid "URL for Link Format"
+msgstr "Link Biçimi için URL"
+
+#: includes/post-options.php:167
+msgid "URL"
+msgstr "URL"
+
+#: includes/post-options.php:168
+msgid "(Required) URL will be open in new window"
+msgstr "(Zorunlu) Yeni pencerede açılacak url"
+
+#: includes/post-options.php:178
+msgid "Video for The Post"
+msgstr "Post için Video"
+
+#: includes/post-options.php:187
+#: includes/post-options.php:321
+msgid "(Required) You can enter a url like youtube, vimeo or self hosted video file."
+msgstr "(Zorunlu) Youtube, vimeo yada kendi barındırdığınız videonun urlsini girebilirsiniz."
+
+#: includes/post-options.php:193
+#: includes/post-options.php:327
+msgid "Video Height"
+msgstr "Video Yüksekliği"
+
+#: includes/post-options.php:194
+#: includes/post-options.php:328
+#: includes/post-options.php:335
+msgid "(Required) As an integer"
+msgstr "(Zorunlu) Tam sayı olmalı"
+
+#: includes/post-options.php:211
+msgid "Audio for The Post"
+msgstr "Post için Müzik"
+
+#: includes/post-options.php:219
+msgid "Audio File URL"
+msgstr "Ses Dosyası URLsi"
+
+#: includes/post-options.php:220
+msgid "(Required) You can enter a url of your file. Supported .aac, .m4a, .f4a, .ogg, .oga and .mp3"
+msgstr "Kendi host ettiğiniz ses dosyanızın urlsini girebilirsiniz. Bu player .aac, .m4a, .f4a, .ogg, .oga ve .mp3 formatlarını destekler."
+
+#: includes/post-options.php:230
+#: includes/post-options.php:274
+msgid "Gallery ID"
+msgstr "Galeri ID"
+
+#: includes/post-options.php:238
+#: includes/post-options.php:282
+msgid "Galley [id] Name"
+msgstr "Galeri [id] Adı"
+
+#: includes/post-options.php:239
+#: includes/post-options.php:283
+msgid "(Required)"
+msgstr "(Zorunlu)"
+
+#: includes/post-options.php:250
+msgid "Additional Portfolio Settings"
+msgstr "Ek Portfolyo Ayarları"
+
+#: includes/post-options.php:264
+msgid "Crop Position"
+msgstr "Kesme Pozisyonu"
+
+#: includes/post-options.php:312
+msgid "Video for The Portfolio"
+msgstr "Portfolio için Video"
+
+#: includes/post-options.php:334
+msgid "Video Width"
+msgstr "Video  Genişliği"
+
+#: includes/post-options.php:352
+msgid "Portfolio Client and Link"
+msgstr "Portfolyo Müşteri ve Linki"
+
+#: includes/post-options.php:361
+#: includes/post-options.php:368
+msgid "(Optional)"
+msgstr "(İsteğe Bağlı)"
+
+#: includes/post-options.php:367
+msgid "Portfolio Link"
+msgstr "Portfolyo Linki"
+
+#: includes/post-options.php:475
+msgid "Select a Crop Position"
+msgstr "Kesme Pozisyonunu Seç"
+
+#: includes/RB_newsletter_widget.php:53
+msgid "E-MAIL"
+msgstr "E-POSTA"
+
+#: includes/RB_newsletter_widget.php:54
+msgid "ADD"
+msgstr "EKLE"
+
+#: includes/RB_newsletter_widget.php:84
+msgid "Your address has beeen added succesfuly"
+msgstr "Adresiniz başarıyla kaydedildi."
+
+#: includes/RB_newsletter_widget.php:86
+msgid "Have got an error when adding to database."
+msgstr "Veritabanına kaydederken bir hata oluştu."
+
+#: includes/RB_newsletter_widget.php:89
+msgid "This e-mail address already has been added to list."
+msgstr "Bu e-posta adresi listeye zaten kayıtlı."
+
+#: includes/RB_newsletter_widget.php:91
+msgid "This e-mail address is incorrect"
+msgstr "Bu e-posta adresi geçerli değil"
+
+#: includes/shortcodes.php:152
+msgid "Submit"
+msgstr "Gönder"
+
+#: includes/shortcodes.php:169
+msgid "Please wait..."
+msgstr "Lütfen bekleyin..."
+
+#: includes/shortcodes.php:174
+msgid "Your message has been sent successfuly."
+msgstr "Mesajınız başarıyla gönderildi."
+
+#: includes/shortcodes.php:184
+msgid "Please fill all required fields"
+msgstr "Lütfen tüm gerekli alanları doldurunuz"
+
+#: includes/uploadify/upload_background_image.php:29
+msgid "Have gots an error while inserting to database"
+msgstr "Veritabanına kaydederken bir hata oluştu."
+
+#: includes/uploadify/upload_background_image.php:32
+msgid "File doesn't move to upload folder"
+msgstr "Dosya upload dizinine taşınamadı."
+
+#: includes/uploadify/upload_background_thumb.php:27
+msgid "Have gots an error while inserting to database."
+msgstr "Veritabanına kaydederken bir hata oluştu."
+
+#: includes/uploadify/upload_background_thumb.php:30
+msgid "File doesn\\'t move to upload folder."
+msgstr "Dosya upload dizinine taşınamıyor."
+
+#: includes/uploadify/upload_settings_image.php:22
+msgid "Have got an error when moving to upload directory."
+msgstr "Dosya upload dizinine taşınırken bir hata oluştu."
+
+#: includes/uploadify/upload_settings_image.php:25
+msgid "This file is incorect"
+msgstr "Bu dosya geçerli değil"
+
+#~ msgid "Exit to Preview"
+#~ msgstr "Öngörüntülemeden Çık"
+
+#~ msgid "All"
+#~ msgstr "Tümü"
+
+#~ msgid "on"
+#~ msgstr "üzerinde"

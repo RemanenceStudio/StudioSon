@@ -1,0 +1,502 @@
+/*
+Theme Name: Studio Son (from Think Responsive theme)
+Theme URI: http://www.renklibeyaz.com/
+Description: Responsive Theme with dark and light options
+Author: RenkliBeyaz - Salih Ozovali
+Version: 1.0.2
+
+Tags: Default
+
+License:
+License URI:
+
+You can add your custum styles to this css file. Think Responsive uses style.php file for dynamic styles.
+
+*/
+
+/* stickyfooter */
+
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
+.container {
+   min-height:100%;
+   position:relative;
+}
+
+#bodywrapper {
+   padding-bottom:160px;   /* Height of the footer */
+}
+
+.footer_wrapper {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   background:#6cf;
+}
+
+/* stickyfooter */
+
+img,embed,object {
+	max-width: 100%;
+}
+
+
+.alignleft{
+	float: left;
+	margin: 10px;
+	border: none;
+}
+	
+.aligncenter {
+	margin: 10px 0px auto;
+	display: block;
+	border: none;
+}
+
+.alignright {
+	float: right;
+	margin: 10px;
+	border: none;
+}
+
+.gallery-caption {}
+.bypostauthor {}
+
+.wp-caption { background: #fff; padding: 10px;}
+.wp-caption-text { font-style: italic; font-size: 10px;}
+.sticky { background: rgba(0,255,255,0.1);}
+
+#header-wrapper{
+	background:rgba(255,255,255,1) !important;
+}
+
+#header{
+	height: 210px !important;
+}
+
+#page-title-wrapper {
+	display: none !important;
+}
+div.sh_seperator{
+	width:100%;
+	background:#FF6C00 !important;
+	top: 10px !important;
+	position: relative;
+	z-index: -1;
+	height:2px !important;
+	margin:0;
+	line-height:0px;
+	font-size:0px;
+	clear:both;
+}
+
+#logo{
+	width: 100%;
+	text-align: center;
+	padding-top:10px;
+	float:  none !important;
+	display: block;
+}
+
+hr.bar {
+	background: none !important;
+}
+
+.blogitem {
+	background:none !important;
+	border-bottom: 2px solid #FF6C00;
+	margin: 0 auto;
+	width:700px !important;
+}
+
+.blogitem h3 a{
+	font-size: 17px !important;
+}
+
+.blogimage {
+	width:700px !important;
+	float:none !important;
+	margin: 0 auto;
+}
+
+
+.blogimage h3 {
+	text-align: center;
+}
+
+.blogmeta {
+	float:right;
+}
+
+
+.blogpost {
+	float:left;
+	width:500px;
+	margin-left:15px;
+}
+
+.portfolioitem {
+	background:none !important;
+}
+
+.dFormInput{
+	width:400px !important;
+}
+
+
+#main-menu {
+	float:none !important;
+	margin-top:0!important;
+}
+
+#main-menu ul li a > span.title {
+	font-size: 80% !important;
+	padding: 26px 6px 9px 9px !important;
+	color: #090005 !important;
+	background: white !important;
+    letter-spacing:3px !important;
+	text-transform:uppercase;
+	}
+
+
+#main-menu ul li a > span.title:hover {
+	color: #ff6c00 !important;
+	text-decoration: underline;
+}
+
+#main-menu ul li.current-menu-ancestor > a {
+	background: none !important;
+}
+
+#main-menu ul li.current-menu-ancestor a span.title {
+	color: #ff6c00 !important;
+}
+#main-menu ul li a:link, #main-menu ul li a:visited {
+	color: white !important;
+}
+#main-menu ul li a:hover, #main-menu ul li a:active {
+	background: none !important;
+	color: #ff6c00 !important;
+}
+
+#main-menu ul li.current-menu-item > a {
+	background: none !important;
+}
+
+/* -------------------------------------FONTFACE--------------------------- */
+/* @font-face {
+    font-family: 'wood_stampregular';
+    src: url('css/fonts/woodstamp/woodstamp-webfont.eot');
+    src: url('css/fonts/woodstamp/woodstamp-webfont.eot?#iefix') format('embedded-opentype'),
+         url('css/fonts/woodstamp/woodstamp-webfont.woff') format('woff'),
+         url('css/fonts/woodstamp/woodstamp-webfont.ttf') format('truetype'),
+         url('css/fonts/woodstamp/woodstamp-webfont.svg#wood_stampregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+} */
+
+/* h2,.carouselHeader h3,.sh_portfolio_title, .footer-wa, #lang_sel_list li a span  { #main-menu ul li a > span.title,
+    font-family: 'wood_stampregular' !important;
+}
+ */
+/* .sh_portfolio_title, .carouselHeader h3, .whatwedo {
+	color: #ff6c00 !important;
+	font-size: 350% !important;
+}
+ */
+/* .sh_portfolio_title:first-letter{
+	font-size: 190% !important;
+}
+ */
+/* -------------------------------------FONTFACE--------------------------- */
+
+.sh_portfolio_title {
+	padding:0 5px;
+	background: white !important;
+	position: relative;
+	top: -27px;
+	left: 15px;
+	margin: 0 !important
+}
+
+
+.carouselHeader h3, .whatwedo {
+	padding:0 5px;
+	display:inline-block;
+	background: white !important;
+	position: relative;
+	top: -28px;
+	left: 15px;
+	font-size:10px;
+	line-height:15px;
+	float:left;
+	display:inline-block;
+	letter-spacing:3px !important;
+	text-transform:uppercase;}
+}
+ .whatwedo { 
+
+	top: -25px;
+ }
+
+.footer_wrapper {
+	background: #ff6c00 !important;
+	width:100% !important;
+	min-height: 160px;
+}
+
+#footer {
+	background: none !important;
+	position: relative;
+}
+
+.footer-wa {
+	color: white !important;
+	font-size:10px;
+	padding:0 5px !important;
+	display: inline-block;
+	background:#ff6c00 !important;
+	position: relative;
+	top: -10px;
+	left:15px;
+	letter-spacing:3px !important;
+	text-transform:uppercase;
+}
+
+.footer_separator {
+	height:2px;
+	background: white;
+}
+
+.footer-wa-container {
+	background: none !important;
+}
+
+#footer .textwidget {
+	padding: 0 0 0 0px !important;
+	color: white !important;
+	font-size: 100%;
+	position: relative;
+	top:-40px;
+	width:350px;
+}
+
+ #footer .textwidget p, #footer .textwidget a {
+	color: white !important;
+ }
+
+  #footer .textwidget .post-share ul {
+  	list-style-type: none;
+  }
+
+  #footer .textwidget .post-share ul li {
+  	float: left;
+  }
+
+  #footer .textwidget .post-share a {
+	background-color: transparent !important;
+}
+  #footer .textwidget .post-share a:hover {
+	background-color: #333 !important;
+}
+
+.vimeo{background-image:url('images/icon-vimeo.png');}
+.linkedin{background-image:url('images/icon-linkedin.png');}
+.viadeo{background-image:url('images/icon-viadeo.png');}
+
+#footer .sh_1of4 .widget_text {
+	height:100px !important;
+}
+#footer .sh_1of4 {
+	margin-bottom:5px !important;
+}
+.wp-pagenavi{
+	display: none;
+}
+
+
+.list_carousel ul {
+	margin-top:-25px !important;
+}
+
+.portfolioitems {
+	position: relative;
+	top:-10px !important;
+}
+
+
+
+#lang_sel_list{
+	position: absolute;
+}
+
+.tp-bannershadow.tp-shadow3 {
+	bottom:-55px !important;
+}
+
+#lang_sel_list li a {
+	padding-left: 6px;
+	border:none !important;
+}
+
+#lang_sel_list li {
+	width: 24px;
+	margin-right:2px !important;
+}
+
+#lang_sel_list li a span {
+	color:white;
+	font-size: 11px;
+	letter-spacing:2px !important;
+	text-transform:uppercase;
+}
+
+a.lang_sel_sel  {
+	height:25px !important;
+	background: #ff6c00 !important;
+}
+
+a.lang_sel_other {
+	height:30px;
+	background:black !important;
+}
+
+#lang_sel_list li a:hover {
+	background: #ff6c00 !important;
+}
+
+#lang_sel_list ul {
+	border:none !important;
+}
+
+
+
+li .image_frame {
+	position:relative;
+	height: 140px;
+	width:220px;
+	overflow:hidden;
+}
+
+.hoverWrapper {
+	height: 140px !important;
+}
+
+.hoverWrapperModal {
+	top: 64px !important;
+}
+
+.carouselHeader{
+	margin-top: -30px !important;
+}
+
+.caroufredsel_wrapper{
+	height: 59px !important;
+	margin: 8px 0px 0px !important;
+}
+
+.caroufredsel_wrapper .logos {
+	top: 14px !important;
+	left:20px !important;
+}
+.caroufredsel_wrapper .logos li{
+	margin-right: 15px !important;
+}
+
+
+.caroufredsel_wrapper .logos a:link, .logos a:visited  {
+	padding:0 5px; 
+}
+
+ @media only screen and (max-width: 940px) {
+
+li .image_frame {
+	position:relative;
+	height: 92px;
+	width:140px;
+	overflow:hidden;
+}
+.hoverWrapperModal {
+	top: 34px !important;
+}
+
+ }
+
+#wpstats {
+	position: absolute;
+	z-index: 10;
+	top: -10px;
+}
+
+@media only screen and (min-width: 460px) and (max-width: 767px) {
+	#main-menu .menu-header{display:block !important;}
+}
+
+
+/* Mobile Portrait 320 */
+@media only screen and (max-width: 767px){
+	#main-menu .menu-header{display:block !important;
+	position: absolute;
+	margin-top: 20px;
+	margin-left:15%;
+	}	
+	
+		.dFormInput{
+			width:280px !important;
+		}
+
+		#footer .textwidget {
+		width: 300px;
+		}
+
+	.blogitem {
+		width:300px !important;
+	}
+
+	.blogimage {
+		width:320px !important;
+	}
+
+	.blogpost {
+		width:300px !important;
+	}
+
+	
+	#bodywrapper {
+	   padding-bottom:300px;   /* Height of the footer */
+	}
+
+}
+
+.dform textarea {
+	width: 100% !important;
+}
+
+input,textarea {
+border: 1px solid #CCC;
+background-color: transparent;
+padding:3px;
+}
+
+textarea {
+	min-width: 60%;
+}
+
+input[type="submit"]{
+	background: #FF6F00;
+	color:white;
+	padding: 5px 10px;
+	border:0;
+}
+
+
+input[type="submit"]:hover{
+	cursor:pointer;
+	background: #FF974A;
+}

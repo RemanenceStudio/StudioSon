@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost/studioson/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.5.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
+<!-- generated-on="30 January 2013 0 h 26 min" -->
+<!-- Debug: Total comment count: 20 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://localhost/studioson/</loc>
+		<lastmod>2013-01-30T00:25:58+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+	<url>
+		<loc>http://localhost/studioson/blog/</loc>
+		<lastmod>2013-01-29T20:49:21+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/page-d-exemple/</loc>
+		<lastmod>2013-01-27T18:14:09+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/front-page-alternative/</loc>
+		<lastmod>2012-04-28T22:00:07+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/square-gallery/</loc>
+		<lastmod>2012-04-27T14:39:03+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/portrait-gallery/</loc>
+		<lastmod>2012-04-27T13:24:17+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/video-and-audio/</loc>
+		<lastmod>2012-04-25T23:30:38+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/portfolio/</loc>
+		<lastmod>2012-04-25T23:00:38+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/light-box/</loc>
+		<lastmod>2012-04-25T22:18:24+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/google-map/</loc>
+		<lastmod>2012-04-25T22:13:29+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/landscape-gallery/</loc>
+		<lastmod>2012-04-25T22:12:33+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/form-creator/</loc>
+		<lastmod>2012-04-25T22:08:30+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/content-short-codes/</loc>
+		<lastmod>2012-04-25T22:07:42+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/contact-page/</loc>
+		<lastmod>2012-04-25T22:06:48+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/boxes/</loc>
+		<lastmod>2012-04-25T22:05:28+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/accordion-tab-toggle/</loc>
+		<lastmod>2012-04-25T22:02:07+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://localhost/studioson/1-to-6-columns-designs/</loc>
+		<lastmod>2012-04-25T22:01:47+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 1043: Comments: 4 of 20 = 0.2 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/04/21/standart-sample-blog-post/</loc>
+		<lastmod>2012-04-21T00:35:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 7: Comments: 2 of 20 = 0.1 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/04/21/gallery-sample-blog-post/</loc>
+		<lastmod>2012-04-21T00:34:02+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1039: Comments: 1 of 20 = 0.1 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/04/21/video-sample-blog-post/</loc>
+		<lastmod>2012-04-21T00:33:30+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1041: Comments: 1 of 20 = 0.1 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/04/21/audio-sample-blog-post/</loc>
+		<lastmod>2012-04-21T00:32:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 9: Comments: 4 of 20 = 0.2 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/04/21/quote-sample-blog-post/</loc>
+		<lastmod>2012-04-21T00:30:32+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1046: Comments: 0 of 20 = 0 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/04/21/link-sample-blog-post/</loc>
+		<lastmod>2012-04-21T00:29:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1050: Comments: 3 of 20 = 0.2 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/04/21/aside-sample-blog-post/</loc>
+		<lastmod>2012-04-21T00:28:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1812: Comments: 1 of 20 = 0.1 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/04/19/sample-blog-post/</loc>
+		<lastmod>2012-04-19T13:59:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 1036: Comments: 1 of 20 = 0.1 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/03/30/image-sample-blog-post/</loc>
+		<lastmod>2012-03-30T01:33:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2498: Comments: 1 of 20 = 0.1 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/03/30/image-sample-blog-post-2/</loc>
+		<lastmod>2012-03-30T00:00:00+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2502: Comments: 1 of 20 = 0.1 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/03/30/image-sample-blog-post-3/</loc>
+		<lastmod>2012-03-29T23:00:42+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2516: Comments: 0 of 20 = 0 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/02/28/2516/</loc>
+		<lastmod>2012-02-28T18:29:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 2520: Comments: 1 of 20 = 0.1 points -->
+	<url>
+		<loc>http://localhost/studioson/2012/02/26/david-lewis/</loc>
+		<lastmod>2012-02-26T18:32:54+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
